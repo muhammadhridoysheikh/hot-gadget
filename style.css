@@ -69,3 +69,23 @@
     background-repeat: no-repeat;
    background-position: left;
 }
+#kapur{
+    background-image: url(categories/perfume.png);
+    background-repeat: no-repeat;
+   
+}
+#tappur{
+    background-image: url(categories/shoe.png);
+    background-repeat: no-repeat;
+   
+}
+#nupur{
+    background-image: url(categories/bag.png);
+    background-repeat: no-repeat;
+   
+}
+#ayna{
+    background-image: url(categories/pale-order.png);
+    background-repeat: no-repeat;
+   
+}
