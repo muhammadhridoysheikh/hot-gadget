@@ -1,0 +1,71 @@
+.logo{
+    margin-right: auto;
+}
+.nav-items{
+   
+   padding: 20px 10px;
+
+}
+
+.nav-items a{
+    text-decoration: none;
+}
+.container ul{
+    padding: 30px;
+}
+
+.kelemer{
+    background-color: black;
+    color: white;
+}
+
+.iku{
+    margin-right: auto; 
+}
+.tori{
+ 
+    text-decoration: none;
+    
+}
+.container{
+    padding-bottom: 3px;
+}
+.afra{
+    padding-top: 100px;
+  
+}
+#amin{
+    background-color: white;
+}
+.card-footer{
+    margin: 0;
+}
+#phone{
+    border: 0;
+    box-shadow: 5px gray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.divider{
+    width: 150px;
+    height: 10px;
+    background-color: yellowgreen;
+    display: inline-block;
+    border-radius: 5px;
+}
+#pagla{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+   background-position: center;
+}
+#amla{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+   background-position: left;
+}
